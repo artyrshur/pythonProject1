@@ -11,4 +11,4 @@ print(max(a,b,c))
 print(min(a,b,c))
 
 print(s - max(a,b,c) - min(a,b,c))
-print()
+
